@@ -1,5 +1,7 @@
 ## Olá! Eu sou Risoaldo Almeida 👋
 
+[risoaldoalmeida GitHub stats](https://github-readme-stats.vercel.app/api?username=risoaldoalmeida&theme=blue-green)
+
 ## Tecnologias que eu uso no meu dia
 <div style="display:inline_block"><br/>
   <img align="center" alt="PowerBI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />   
